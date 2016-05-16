@@ -1,4 +1,7 @@
-.DS_Store
-*.log
 node_modules
+*.log
+.DS_Store
+dist
 lib
+.nyc_output
+coverage
